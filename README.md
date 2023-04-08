@@ -1,6 +1,5 @@
 # Controle de Estoque
-Este é um programa simples em C para gerenciar um sistema de controle de estoque. Ele permite ao usuário inserir até 10 peças, incluindo código, nome, quantidade e preço unitário. O programa então calcula o valor total do inventário e identifica a peça com o maior valor.
-
+Este programa em C permite que o usuário armazene informações de até 10 peças em um estoque, incluindo código, nome, quantidade e preço unitário de cada peça. O programa calcula o valor total do estoque e identifica a peça com o maior valor em estoque, exibindo o código e o nome da peça. O programa usa estruturas em C para armazenar as informações de cada peça e utiliza as funções de entrada e saída padrão da linguagem.
 ## Como utilizar
 Para utilizar o programa, siga as instruções abaixo:
 
